@@ -19,7 +19,7 @@
         <commons-collections4.version>4.4</commons-collections4.version>
         <swagger.butler.version>2.0.1</swagger.butler.version>
         <jjwt.version>0.9.1</jjwt.version>
-        <druid-starter>1.2.6</druid-starter>
+        <druid-starter>1.2.22</druid-starter>
         <jasypt.version>1.14</jasypt.version>
         <sharding-sphere.version>3.1.0</sharding-sphere.version>
         <security-oauth2.version>2.3.8.RELEASE</security-oauth2.version>
