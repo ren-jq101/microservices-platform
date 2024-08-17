@@ -1,4 +1,4 @@
-FROM nginx:1.21.0
+FROM nginx:1.26.2
 
 LABEL MAINTAINER=Andy
 RUN rm -rf /usr/share/nginx/html/*
