@@ -1,4 +1,4 @@
-FROM openjdk:8u292
+FROM openjdk:8u342
 
 LABEL MAINTAINER=Andy
 WORKDIR /apps
